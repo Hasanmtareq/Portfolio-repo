@@ -83,6 +83,11 @@ h2{
     display: flex;
     margin-top: ;
 }
+#dev-bg{
+   background-image: url(images/shape-1.png); 
+   background-repeat: no-repeat;
+   background-position:left;
+}
     .img2{
         width:50%;
         margin-left: 25%;
@@ -102,4 +107,48 @@ h2{
     .global-el{
         margin-left: 20%;
         margin-top: 12%;
+    }
+    .contact{
+        text-align: center;
+        
+    }
+    h5{
+        font-size: 30px;
+        padding-top: 5%;
+    }
+    .contact-area{
+        background-color: teal;
+        color: white;
+        margin-bottom: 0;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .form{
+        margin-top: 10%;
+    }
+    .img3{
+        width:60%;
+        height: 70%;
+        margin-left: 30%;
+        margin-top: 10%;
+    }
+    input{
+        width:60%;
+        height: 50px;
+        border:none;
+        border-radius: 10px;
+    }
+    textarea{
+        border: none;
+        border-radius: 10px;
+    }
+    footer{
+        margin-top: 0;
+        padding-bottom: 5%;
+        text-align: center;
+        background-color: black;
+        color: white;
+    }
+    .tomato{
+        color: tomato;
     }
